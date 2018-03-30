@@ -1,12 +1,12 @@
 # Alex & Lauren
 
-Frontend Production:
+Frontend Production:[github pages](https://blaurenb.github.io/quantified-self/foods.html)
 
-Frontend Github:
+Frontend Github:[github](https://github.com/BLaurenB/quantified-self)
 
-Backend Production:
+Backend Production:[heroku](https://qs-backend-express.herokuapp.com/)
 
-Backend Github:
+Backend Github: [github](https://github.com/abarnes26/quantified-self-express-backend/tree/master)
 
 ## Self Assessment Rubric
 
