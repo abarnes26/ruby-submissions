@@ -35,7 +35,7 @@ React, Vanilla JS, jQuery, NREL API
 
 ### Wireframes
 
-Link to wireframes: [here](https://wireframe.cc/pro/pp/52ce4f254155760)
+Link to wireframes: [here](https://wireframe.cc/pro/pp/52ce4f254155760) Navigation is in the top left corner
 
 ### Schema
 
