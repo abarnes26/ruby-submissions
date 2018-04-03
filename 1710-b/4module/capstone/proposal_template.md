@@ -39,4 +39,4 @@ Link to wireframes: [here](https://wireframe.cc/pro/pp/52ce4f254155760)
 
 ### Schema
 
-![schema](https://imgur.com/a/ju3js)
+![schema](https://i.imgur.com/zhmD4A9.jpg)
