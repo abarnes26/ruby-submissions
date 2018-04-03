@@ -36,3 +36,7 @@ React, Vanilla JS, jQuery, NREL API
 ### Wireframes
 
 Link to wireframes: [here](https://wireframe.cc/pro/pp/52ce4f254155760)
+
+### Schema
+
+![schema](https://imgur.com/a/ju3js)
